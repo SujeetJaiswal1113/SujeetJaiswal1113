@@ -2,13 +2,16 @@
 
 ## Aspiring Data Analyst
 
-Passionate about transforming data into actionable insights using SQL, Excel, Power BI, Python, AI Tools and Automation.
+
+Passionate about transforming data into actionable insights using SQL, Excel, Power BI, Python, AI Tools, and Automation.
 
 ## Resume
 
+
 📄 **Resume:** [Download Here](./resume_files/Sujeet_Jaiswal_Data_Analyst_Resume.pdf)
 
-### Skills
+
+## Skills
 - SQL Server
 - MySQL
 - Python
@@ -21,7 +24,7 @@ Passionate about transforming data into actionable insights using SQL, Excel, Po
 - AI Tools
 - Automation
 
-### Featured Projects
+## Featured Projects
 
 #### 📚 Online Bookstore Analysis (SQL)
 - SQL-based business analytics project
@@ -36,13 +39,14 @@ Passionate about transforming data into actionable insights using SQL, Excel, Po
 #### 📊 Mobile Sales Dashboard (Power BI)
 - Interactive dashboard for sales performance analysis
 - KPI tracking, trend analysis, and business insights
-- GitHub Repository:https://github.com/SujeetJaiswal1113/mobile-sales-dashboard
+- GitHub Repository: https://github.com/SujeetJaiswal1113/mobile-sales-dashboard
 
-### Currently Learning
+## Currently Learning
 - Advanced Data Analytics
 - Dashboard Design
+- Data Storytelling
 - Interview Preparation
 
-### Connect With Me
+## Connect With Me
 - LinkedIn: [Sujeet Jaiswal](https://www.linkedin.com/in/sujeet-jaiswal-a844b2266)
 - GitHub: [SujeetJaiswal1113](https://github.com/SujeetJaiswal1113)
