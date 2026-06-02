@@ -9,11 +9,16 @@ Passionate about transforming data into actionable insights using SQL, Excel, Po
 
 📌 3 End-to-End Data Analytics Projects
 
+
 📌 SQL, Python, Power BI Portfolio
+
 
 📌 500+ Record Business Analysis Project
 
+
 📌 IPL Ball-by-Ball Analytics using Advanced SQL
+
+
 
 📌 Drug Safety Associate transitioning to Data Analytics
 
