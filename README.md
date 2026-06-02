@@ -4,6 +4,10 @@
 
 Passionate about transforming data into actionable insights using SQL, Excel, Power BI, Python, AI tools and Automation.
 
+## Resume
+
+📄 **Resume:** [Download Here](./resume_files/Sujeet_Jaiswal_Data_Analyst_Resume.pdf)
+
 ### Skills
 - SQL Server
 - MySQL
