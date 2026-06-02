@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Sujeet Jaiswal 👋
 
-<!--
-**SujeetJaiswal1113/SujeetJaiswal1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Passionate about transforming data into actionable insights using SQL, Excel, Power BI, Python, AI tools and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- SQL Server
+- MySQL
+- Python
+- Pandas
+- NumPy
+- Excel
+- Power BI
+- Statistics
+- Data Analysis
+- AI tools
+- Automation
+
+### Featured Projects
+
+#### 📚 Online Bookstore Analysis (SQL)
+- SQL-based business analytics project
+- Used JOINs, CTEs, Window Functions, Views, and Query Optimization
+
+#### 🏏 IPL 2023 Cricket Analytics (SQL Server)
+- Analyzed 17,863 ball-by-ball records and 74 matches
+- Applied JOINs, CASE Statements, CTEs, RANK(), DENSE_RANK(), and Running Totals
+
+#### 📊 Mobile Sales Dashboard (Power BI)
+- Interactive dashboard for sales performance analysis
+- KPI tracking, trend analysis, and business insights
+
+### Currently Learning
+- Advanced Data Analytics
+- Dashboard Design
+- Interview Preparation
+
+### Connect With Me
+- LinkedIn: www.linkedin.com/in/sujeet-jaiswal-a844b2266
+
+- GitHub:https://github.com/SujeetJaiswal1113
