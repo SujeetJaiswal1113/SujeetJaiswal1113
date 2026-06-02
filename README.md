@@ -9,16 +9,11 @@ Passionate about transforming data into actionable insights using SQL, Excel, Po
 
 📌 3 End-to-End Data Analytics Projects
 
-
 📌 SQL, Python, Power BI Portfolio
-
 
 📌 500+ Record Business Analysis Project
 
-
 📌 IPL Ball-by-Ball Analytics using Advanced SQL
-
-
 
 📌 Drug Safety Associate transitioning to Data Analytics
 
@@ -62,15 +57,6 @@ SQL Server | MySQL | Python | Pandas | NumPy | Power BI | Excel | Statistics | G
 - Interactive dashboard for sales performance analysis
 - KPI tracking, trend analysis, and business insights
 - GitHub Repository: https://github.com/SujeetJaiswal1113/mobile-sales-dashboard
-
-## Quick Highlights
-
-📌 3 End-to-End Data Analytics Projects
-📌 SQL, Python, Power BI Portfolio
-📌 500+ Record Business Analysis Project
-📌 IPL Ball-by-Ball Analytics using Advanced SQL
-📌 Drug Safety Associate transitioning to Data Analytics
-
 
 ## Currently Learning
 - Advanced SQL Optimization
