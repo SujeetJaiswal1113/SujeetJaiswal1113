@@ -7,7 +7,7 @@ Passionate about transforming data into actionable insights using SQL, Excel, Po
 
 ## Quick Highlights
 
-📌 3 End-to-End Data Analytics Projects
+📌 4 End-to-End Data Analytics Projects
 
 📌 SQL, Python, Power BI Portfolio
 
