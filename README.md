@@ -7,9 +7,9 @@ Passionate about transforming data into actionable insights using SQL, Excel, Po
 
 ## Quick Highlights
 
-📌 4 End-to-End Data Analytics Projects
+📌 5 End-to-End Data Analytics & Automation Projects
 
-📌 SQL, Python, Power BI Portfolio
+📌 SQL | Python | Power BI | Automation | ETL
 
 📌 500+ Record Business Analysis Project
 
@@ -36,12 +36,27 @@ Passionate about transforming data into actionable insights using SQL, Excel, Po
 - Data Analysis
 - AI Tools
 - Automation
+- SQLAlchemy
+- ETL
+- Python Automation
+- Windows Task Scheduler
+- Watchdog
+- Outlook Automation
 
 ## Tech Stack
 
 SQL Server | MySQL | Python | Pandas | NumPy | Power BI | Excel | Statistics | Git | GitHub
 
 ## Featured Projects
+
+## 🚀 Ecommerce Sales Automation Pipeline (Python | SQL Server | ETL)
+
+- Built an **End-to-End Automation Pipeline** using Python.
+- Implemented **13 progressive automation levels**.
+- Automated CSV processing, KPI reporting, Excel reporting, SQL Server integration, SQLAlchemy, Outlook Email Automation, Folder Monitoring, Logging, and ETL Pipeline.
+- Generated business KPI dashboards and automated reporting.
+- GitHub Repository:
+  https://github.com/SujeetJaiswal1113/Ecommerce-Sales-Automation-Pipeline
 
 #### 🏏 IPL 2023 Cricket Analytics (SQL Server)
 - Analyzed 17,863 ball-by-ball records and 74 matches
