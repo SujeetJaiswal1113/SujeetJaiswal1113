@@ -58,17 +58,17 @@ SQL Server | MySQL | Python | Pandas | NumPy | Power BI | Excel | Statistics | G
 - GitHub Repository:
   https://github.com/SujeetJaiswal1113/Ecommerce-Sales-Automation-Pipeline
 
-#### 🏏 IPL 2023 Cricket Analytics (SQL Server)
+## 🏏 IPL 2023 Cricket Analytics (SQL Server)
 - Analyzed 17,863 ball-by-ball records and 74 matches
 - Applied JOINs, CASE Statements, CTEs, RANK(), DENSE_RANK(), and Running Totals
 - GitHub Repository: https://github.com/SujeetJaiswal1113/IPL2023-SQL-ANALYSIS
 
-  #### 📚 Online Bookstore Sales Analysis (Python, Pandas & Power BI)
+## 📚 Online Bookstore Sales Analysis (Python, Pandas & Power BI)
 - SQL-based business analytics project
 - Used JOINs, CTEs, Window Functions, Views, and Query Optimization
 - GitHub Repository: https://github.com/SujeetJaiswal1113/Online-Bookstore-Analysis
 
-#### 📊 Mobile Sales Dashboard (Power BI)
+## 📊 Mobile Sales Dashboard (Power BI)
 - Interactive dashboard for sales performance analysis
 - KPI tracking, trend analysis, and business insights
 - GitHub Repository: https://github.com/SujeetJaiswal1113/mobile-sales-dashboard
